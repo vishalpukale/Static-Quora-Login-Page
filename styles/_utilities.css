@@ -1,0 +1,11 @@
+:root{
+    --colorblack: #111;
+    --colorwhite: #fff;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    /* background-image: url(../quora.jpg);
+    background-size: cover; */
+}
